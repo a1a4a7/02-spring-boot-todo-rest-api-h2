@@ -1,0 +1,32 @@
+Manifest-Version: 1.0
+Main-Class: 
+Class-Path: javax.transaction-api-1.3.jar spring-boot-autoconfigure-2.1.
+ 0.RELEASE.jar jaxb-runtime-2.3.0.jar spring-boot-starter-logging-2.1.0.
+ RELEASE.jar spring-boot-starter-data-jpa-2.1.0.RELEASE.jar h2-1.4.197.j
+ ar spring-boot-starter-web-2.1.0.RELEASE.jar FastInfoset-1.2.13.jar spr
+ ing-aop-5.1.2.RELEASE.jar byte-buddy-1.9.3.jar spring-jcl-5.1.2.RELEASE
+ .jar spring-aspects-5.1.2.RELEASE.jar snakeyaml-1.23.jar tomcat-embed-c
+ ore-9.0.12.jar jboss-logging-3.3.2.Final.jar spring-web-5.1.2.RELEASE.j
+ ar spring-boot-starter-aop-2.1.0.RELEASE.jar spring-boot-starter-tomcat
+ -2.1.0.RELEASE.jar jandex-2.0.5.Final.jar hibernate-validator-6.0.13.Fi
+ nal.jar stax-ex-1.7.8.jar spring-boot-devtools-2.1.0.RELEASE.jar javax.
+ persistence-api-2.2.jar spring-beans-5.1.2.RELEASE.jar javassist-3.23.1
+ -GA.jar jackson-annotations-2.9.0.jar javax.activation-api-1.2.0.jar sp
+ ring-core-5.1.2.RELEASE.jar logback-classic-1.2.3.jar jaxb-impl-2.3.0.j
+ ar classmate-1.4.0.jar tomcat-embed-websocket-9.0.12.jar jackson-dataty
+ pe-jsr310-2.9.7.jar spring-boot-starter-2.1.0.RELEASE.jar jaxb-api-2.3.
+ 0.jar jul-to-slf4j-1.7.25.jar validation-api-2.0.1.Final.jar spring-boo
+ t-2.1.0.RELEASE.jar logback-core-1.2.3.jar spring-data-jpa-2.1.2.RELEAS
+ E.jar HikariCP-3.2.0.jar jackson-core-2.9.7.jar spring-webmvc-5.1.2.REL
+ EASE.jar tomcat-embed-el-9.0.12.jar jackson-databind-2.9.7.jar activati
+ on-1.1.1.jar spring-context-5.1.2.RELEASE.jar log4j-to-slf4j-2.11.1.jar
+  hibernate-core-5.3.7.Final.jar jackson-module-parameter-names-2.9.7.ja
+ r dom4j-2.1.1.jar antlr-2.7.7.jar txw2-2.3.0.jar slf4j-api-1.7.25.jar s
+ pring-data-commons-2.1.2.RELEASE.jar jaxb-core-2.3.0.jar log4j-api-2.11
+ .1.jar spring-boot-starter-json-2.1.0.RELEASE.jar hibernate-commons-ann
+ otations-5.0.4.Final.jar jackson-datatype-jdk8-2.9.7.jar spring-tx-5.1.
+ 2.RELEASE.jar spring-jdbc-5.1.2.RELEASE.jar spring-orm-5.1.2.RELEASE.ja
+ r aspectjweaver-1.9.2.jar istack-commons-runtime-3.0.5.jar javax.annota
+ tion-api-1.3.2.jar spring-expression-5.1.2.RELEASE.jar spring-boot-star
+ ter-jdbc-2.1.0.RELEASE.jar
+
